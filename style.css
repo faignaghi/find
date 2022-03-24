@@ -12,7 +12,7 @@ main{
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background-image:url('4954772.jpg'); 
+    background-image:url('./img/4954772.jpg'); 
     background-repeat: no-repeat;
     background-size: cover; ;
 }
@@ -53,7 +53,7 @@ p{
     height: 3em;
     margin-bottom: 2em;
     border-radius:2em;
-    padding: 0em 2em ;
+    padding: 0em 2em;
 }
 #guessNumber:placeholder-shown{
     color:red;
