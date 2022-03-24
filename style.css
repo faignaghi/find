@@ -14,7 +14,7 @@ main{
     height: 100vh;
     background-image:url('./img/4954772.jpg'); 
     background-repeat: no-repeat;
-    background-size: cover; ;
+    background-size: cover;
 }
 
 #container{
@@ -25,7 +25,7 @@ h1{
     margin-top:12vw;
     margin-bottom:3vw;
     text-shadow: 5px 5px 5px #f3cb8e;
-    color: rgb(165, 101, 29)
+    color: rgb(165, 101, 29);
     
 }
 
@@ -53,7 +53,7 @@ p{
     height: 3em;
     margin-bottom: 2em;
     border-radius:2em;
-    padding: 0em 2em ;
+    padding: 0em 2em;
 }
 #guessNumber:placeholder-shown{
     color:red;
